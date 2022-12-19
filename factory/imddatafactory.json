@@ -1,0 +1,9 @@
+{
+	"name": "imddatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c478a359-34d8-4af6-9d87-68cd1f565bc2",
+		"tenantId": "3e0d8c9f-686f-4c6f-b277-d04db011be15"
+	}
+}
